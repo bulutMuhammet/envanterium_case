@@ -92,6 +92,6 @@ async function aggregated_report(){
 
 // use what you need
 
-// location_barcode_amount()
-// barcode_amount()
-// aggregated_report()
+location_barcode_amount()
+barcode_amount()
+aggregated_report()
